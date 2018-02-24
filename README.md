@@ -10,7 +10,7 @@ B-Trees are one  of  the  most  important  data  structures  we  will  study  in
 standard  B-trees.  We  will  allow  duplicate  keys,  i.e.,  a  tree  can  have  an  unbounded  number  of  keys  that  have  the 
 same value.
 -
-- 
+
 Problem  Statement:
 Your 
 task  is  to  implement  a  g
@@ -66,7 +66,7 @@ example, neglecting the values,
 			    /         |          \              \ 
 			/             |            \                 \
 		| 1 | 2 | 3 |   |6 | 7 | 9 |   | 11 | 12 |15 |      | 17 | 22 | 36 |
-                -------------   ------------   ---------------      ----------------
+             -------------   ------------   ---------------      ----------------
 
 
 will be converted as:
