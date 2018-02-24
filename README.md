@@ -1,21 +1,16 @@
-ASSIGNMENT 3: B
+ASSIGNMENT 3: 
+B-TREES with DUPLICATES
 -
-TREES with DUPLICATES
 Goal:
-The goal of this assignment is to get some practice with binary search trees, specifically B
+The goal of this assignment is to get some practice with binary search trees, specifically B-
+Trees.
+- 
+B-Trees are one  of  the  most  important  data  structures  we  will  study  in  this  class 
+–they  are  regularly  used  in  large  database systems  for  storing  indexes  on  the  records.  However,  just  for  fun,  we  will  make  one  significant  departure  from 
+standard  B-trees.  We  will  allow  duplicate  keys,  i.e.,  a  tree  can  have  an  unbounded  number  of  keys  that  have  the 
+same value.
 -
-Trees. B
--
-Trees are 
-one  of  the  most  important  data  structures  we  will  study  in  this  class 
-–
-they  are  regularly  used  in  large  database 
-systems  for  storing  indexes  o
-n  the  records.  However,  just  for  fun,  we  will  make  one  significant  departure  from 
-standard  B
--
-trees.  We  will  allow  duplicate  keys,  i.e.,  a  tree  can  have  an  unbounded  number  of  keys  that  have  the 
-same value. 
+- 
 Problem  Statement:
 Your 
 task  is  to  implement  a  g
